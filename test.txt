@@ -1,0 +1,5 @@
+Makaron,20,6,1.3
+Ziemniaki,4,4,1.2
+Cukierki,7,8,1.5
+Woda,90,4,1.6
+

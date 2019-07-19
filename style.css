@@ -1,0 +1,9 @@
+body {
+    blackground-color: #DFDFDF;
+}
+h1{
+    color: red;
+}
+h1.par1 {
+    font-weight: bold;
+}
